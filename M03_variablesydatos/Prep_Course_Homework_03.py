@@ -5,7 +5,9 @@
 
 # 1) Crear una variable que contenga un elemento del conjunto de números enteros y luego imprimir por pantalla
 
-# In[7]:
+# In[7]:mi_variable1 = (12)
+print(mi_variable1)
+
 
 
 
